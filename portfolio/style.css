@@ -1,0 +1,30 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+.nav-p{
+  display:inline-block;
+  padding-top:.3125rem;
+  padding-bottom:.3125rem;
+  margin-right:1rem;
+  font-size:1.25rem;
+  line-height:inherit;
+  white-space:nowrap;
+  color:white;
+  
+}
+
+body {
+  font-family: Georgia;
+  margin: 5em;
+  background-color: #C5E4F5;
+  color: #005BA6;
+}
+
+h1 {
+  font-style: bold;
+  color: #E8BB4A;
+}
